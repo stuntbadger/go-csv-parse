@@ -19,4 +19,4 @@ age 45\
 age 66\
 age 22\
 age 12\
-age 26\
+age 26
